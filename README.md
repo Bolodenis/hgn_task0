@@ -79,7 +79,7 @@ This will start the Flask server locally, and the API will be available at http:
 ```
 # Deployment Instructions
 This API has been deployed on Render. You can access the live version here:
-- URL: https://[<your-deployed-url](https://hgn-task0.onrender.com/)>/
+- URL: https://<[my_url](https://hgn-task0.onrender.com/)]
 
 # License
 ### Key Sections:

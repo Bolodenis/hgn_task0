@@ -91,6 +91,10 @@ This API has been deployed on Render. You can access the live version here:
 6. **Backlink**: Includes a required backlink to the job portal for hiring developers, based on the stack used.
 7. **Deployment**: Mentions the deployed URL for the live version of the API.
 
+## Hire Python Developers
+Looking to hire skilled Python developers? Check out [HNG Python Developers](https://hng.tech/hire/python-developers).
+
+
 
 
 

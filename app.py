@@ -1,10 +1,10 @@
 from flask import Flask, jsonify
-from flask_cors import CORS
+
 from datetime import datetime, timezone
 import requests
 
 app = Flask(__name__)
-CORS(app)
+
 
 @app.route("/me", methods=["GET"])
 def get_profile():

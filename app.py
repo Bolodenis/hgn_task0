@@ -33,7 +33,8 @@ def get_profile():
     return jsonify(result), 200  # Return JSON with HTTP 200 OK
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=7296)
+    app.run()
+
 
 
 
